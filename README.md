@@ -1,4 +1,5 @@
 # TheoryOfEverything
+See [99_Background/Introduction-GPT-Conversation.md](99_Background/Introduction-GPT-Conversation.md)
 
 ## Repository Overview
 This repository proposes a Theory of Everything emerging from fundamental principles rooted in the Spin(4) group isomorphisms. The framework begins with a state of absolute nothingness and progresses iteratively through logical steps, building complexity from differentiation, scaling, and emergent symmetries. Each state is described in detail, exploring its mathematical, physical, and conceptual implications.
