@@ -16,22 +16,17 @@ Our repository structure captures the iterative nature of this ToE, where each f
 TheoryOfEverything/
 ├── README.md
 ├── 0_InitialState/
-│   ├── 00_Nothing.md
-│   ├── 01_Unit.md
-│   ├── 10_Scale.md
-│   ├── 11_Duality.md
-│   └── 100_NextIteration.md
+│   ├── 0_Nothing.md
+│   ├── 00_Unit.md
+│   ├── 01_Scale.md
+│   ├── 11_Value.md
+│   └── 1_Everything.md
+|   ...
 ```
+# Start Here
+[1_Everything](0_InitialState/1_Everything.md)
+[0_Nothing.md](0_InitialState/0_Nothing.md)
 
-### Directory: 0_InitialState/
-This directory explores the foundational steps of the theory, starting from absolute nothingness and progressively introducing differentiation, scale, duality, and iteration. Each step builds upon the last, forming a coherent narrative of emergent complexity.
-
-### File Descriptions
-1. **00_Nothing.md**: Describes the initial state of absolute nothingness.
-2. **01_Unit.md**: Introduces the concept of the fundamental unit, such as the Planck scale.
-3. **10_Scale.md**: Explores the concept of scaling and proportional relationships.
-4. **11_Duality.md**: Examines duality as a complementary principle to differentiation and scale.
-5. **100_NextIteration.md**: Investigates the iterative process of building new emergent states.
 
 ---
 
