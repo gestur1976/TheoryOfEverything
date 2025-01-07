@@ -24,8 +24,8 @@ TheoryOfEverything/
 |   ...
 ```
 # Start Here
-[1_Everything](0_InitialState/1_Everything.md)
-[0_Nothing.md](0_InitialState/0_Nothing.md)
+- [0_Nothing.md](0_InitialState/0_Nothing.md)
+- [1_Everything](0_InitialState/1_Everything.md)
 
 
 ---
