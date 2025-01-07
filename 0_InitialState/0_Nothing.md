@@ -1,6 +1,6 @@
-### 00_Nothing.md
+### 0_Nothing.md
 
-# Step 0: Nothingness
+# Step 0: Nothing
 
 ## Description
 Nothingness represents the absolute symmetry of the initial state. It is devoid of structure, magnitude, or differentiation. This state serves as the foundation from which all phenomena and complexity arise.
@@ -15,6 +15,6 @@ Imagine a calm, infinite ocean with no waves, currents, or boundaries. It is per
 
 ---
 
-**Next Step:** Introduce the first measurable property in [01_Unit.md](01_Unit.md).
+**Next Step:** Introduce the concept of Unit in [00_Unit.md](00_Unit.md).
 
 ---
