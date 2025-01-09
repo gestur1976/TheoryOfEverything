@@ -1,4 +1,4 @@
-### **A Mathematical Framework for Geometry as the Fundamental Reality**
+### **Iterative Reality Design Theory (IRDT). A Mathematical Framework for Geometry as the Fundamental Reality**
 
 #### **1. Fundamental Topology of Space**
 
