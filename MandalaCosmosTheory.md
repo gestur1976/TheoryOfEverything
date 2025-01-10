@@ -1,7 +1,7 @@
 # **Mandala Cosmos Theory**  
 *by Josep F. Hervàs Fuertes*
 
-## **Introduction: A New Name, A New Vision**
+## **Introduction: A New Vision**
 
 **Why “Mandala Cosmos Theory”?**  
 The term “Mandala” originates from ancient Sanskrit, meaning “circle” or “wholeness.” In Hindu, Buddhist, and other spiritual traditions, mandalas are geometric diagrams that represent the universe itself—a microcosm reflecting the macrocosm. This symbol of **cosmic unity** resonates profoundly with the **dodecahedral tessellation** and **symmetry-breaking** concepts at the heart of the framework proposed here. Just as a mandala visually embodies interconnectedness and infinite iteration, the **Mandala Cosmos Theory** asserts that reality’s discrete geometry iterates at every scale, creating a self-referential web of cosmic design.
